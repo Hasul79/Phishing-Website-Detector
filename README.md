@@ -43,5 +43,8 @@ if __name__ == "__main__":
     check_phishing(user_url)
 ```
 
-<li></li>
+<li>Запустите скрипт</li>
+
+![Screenshot 2024-03-02 020155](https://github.com/Hasul79/Phishing-Website-Detector/assets/95657084/c54ed702-a5b5-4fbd-82b9-ba4fc7654129)
+
 </ul>
