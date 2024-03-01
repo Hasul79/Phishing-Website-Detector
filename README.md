@@ -4,9 +4,11 @@
 <ul>
 
 <li>Установите необходимые библиотеки:</li>
+
 ![Screenshot 2024-03-02 020551](https://github.com/Hasul79/Phishing-Website-Detector/assets/95657084/47b17144-83f9-4c85-ad87-6028934cad81)
 
 <li>Создайте скрипт на Python:</li>
+
 ![Screenshot 2024-03-02 021427](https://github.com/Hasul79/Phishing-Website-Detector/assets/95657084/5c54227d-4c2c-42f6-88be-d1108db349f5)
 
 
