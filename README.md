@@ -61,9 +61,8 @@ if __name__ == "__main__":
 <ol>
 
 <li>
-    <p style="color: blue; font-size: 20px;">This is a styled paragraph.</p>
-
-    <b style="color: blue; font-size: 20px;">Импорт библиотек:</b> Скрипт использует библиотеку requests для выполнения HTTP-запросов и BeautifulSoup для разбора HTML.</li>
+    <b style="font-size: 20px;">Импорт библиотек:</b> 
+Скрипт использует библиотеку requests для выполнения HTTP-запросов и BeautifulSoup для разбора HTML.</li>
 <li></li>
 <li></li>
 </ol>
