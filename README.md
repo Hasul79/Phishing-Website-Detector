@@ -1,4 +1,4 @@
-                                               # Phishing-Website-Detector
+ <h1 align="center">Phishing Website Detector</h1>
 
 # Для запуска предоставленного Python-кода выполните следующие шаги:
 <ul>
