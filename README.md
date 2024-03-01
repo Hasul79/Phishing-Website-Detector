@@ -61,7 +61,7 @@ if __name__ == "__main__":
 <ol>
 
 <li>
-    <b style="font-size: 20px;">Импорт библиотек:</b> 
+    <b>Импорт библиотек:</b> <br />
 Скрипт использует библиотеку requests для выполнения HTTP-запросов и BeautifulSoup для разбора HTML.</li>
 <li></li>
 <li></li>
