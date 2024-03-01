@@ -1,4 +1,4 @@
-<h1 style="text-align: center; font-size: 40px;">Phishing Website Detector</h1>
+<h1 style="text-align: center">Phishing Website Detector</h1>
 
 
 # Для запуска предоставленного Python-кода выполните следующие шаги:
