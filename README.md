@@ -80,3 +80,6 @@ if __name__ == "__main__":
 <li>
     <b>if name == "main":</b> <br />
 Этот блок гарантирует, что функция main вызывается при выполнении скрипта.</li>
+<br/>
+
+# Author: Hasmik Minasyan
